@@ -1,0 +1,6 @@
+# Changelog
+
+## 1.0.0 - 2026-05-19
+
+### Added
+- Timezone field type that stores and validates an IANA timezone identifier.
